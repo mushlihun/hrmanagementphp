@@ -1,0 +1,18 @@
+form {
+    background-color: rgb(0, 0, 0);
+    padding: 15px;
+    border-radius: 15px;
+}
+
+button {
+    margin: 8px 0;
+    justify-content: center;
+    text-align: center;
+}
+
+.buttons {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

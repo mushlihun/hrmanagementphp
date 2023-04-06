@@ -1,0 +1,56 @@
+body{
+    background-color: blue;
+}
+form {
+    background-color: rgb(0, 0, 0);
+    padding: 15px;
+    border-radius: 15px;
+}
+
+button {
+    margin: 8px 0;
+    justify-content: center;
+    text-align: center;
+}
+
+.buttons {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #000000;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #000000;
+    color: white;
+  }
+  
+  /* Instagram */
+  .fa-instagram {
+    background: rgb(0, 0, 0);
+    color: rgb(255, 253, 253);
+  }
